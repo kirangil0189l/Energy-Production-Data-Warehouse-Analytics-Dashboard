@@ -105,3 +105,7 @@ energy-production-data-warehouse
 Energy companies rely heavily on production monitoring dashboards to track well performance and asset reliability. 
 
 This project demonstrates how production and downtime data can be transformed into actionable insights using modern data engineering and analytics tools.
+
+## Author : 
+**Sukhkirandeep Kaur Sidhu**  
+**sukhkirandeep.kaur@gmail.com**
