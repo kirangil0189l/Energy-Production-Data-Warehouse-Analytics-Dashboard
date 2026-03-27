@@ -74,21 +74,21 @@ Interactive filters allow users to analyze performance by asset.
 ## Project Structure
 
 energy-production-data-warehouse
-│
-├── sql
-│   ├── DatamartTables.sql
-│   ├── Sequence.sql
-│   ├── ETLProcess.sql
-│   ├── KPI_refresh.sql
-│   └── Views.sql
-│
-├── powerbi
-│   └── EnergyProductionDashboard.pbix
-│
-├── images
-│   └── dashboard.png
-│
-└── README.md
+
+── sql
+  ── DatamartTables.sql
+  ── Sequence.sql
+ ── ETLProcess.sql
+ ── KPI_refresh.sql
+ ── Views.sql
+
+── powerbi
+   ── EnergyProductionDashboard.pbix
+
+── images
+   ── dashboard.png
+
+── README.md
 
 
 ## Key Skills Demonstrated
